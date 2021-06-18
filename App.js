@@ -1,4 +1,4 @@
-/* eslint-disable no-shadow */
+// Animated Toast Notification System
 import React from 'react';
 import {
   ScrollView,
